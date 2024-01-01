@@ -7,8 +7,8 @@
     "Header.cvBtn" : "Resume",
     "Header.cvName": "CV_Jose_Hernandez_Ingles.pdf",
 
-    "Banner.Pretitle": "Hello! My name is",
-    "Banner.Description": "I have <span class='underline'>4 years of experience</span> developing systems, interfaces, bots, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular</span> and sometimes in <span class='underline'>Laravel</span> applying good practices and development standards.",
+    "Banner.Pretitle": "Hello! I'm",
+    "Banner.Description": "With a dynamic <span class='underline'>4-year journey</span> in tech, I'm a passionate coder and solution architect with a trailblazing journey from delivering global production products during college to navigating the corporate realm as an Associate Software Engineer. Proficient in <span class='underline'>Python, Flask, MongoDB, SQL, Git, and Linux</span>. For <span class='underline'>3 years</span> I've left an indelible mark maintaining the <span class='underline'>Evolution X Android OS </span> for <span class='underline'>Xiaomi Mi A3</span>. Currently, I'm steering my learning voyage into the realms of <span class='underline'>.NET and Microsoft Azure Data Factory.</span> Join me on this tech odyssey, where innovation meets dedication, and let's craft the future together!",
     "Banner.ActionBtn": "Get in touch",
 
     "AboutMe.Title": "About me",
