@@ -44,3 +44,5 @@ I value keeping my site open source, but as you all know, _**plagiarism is bad**
 As I have made an attribution to Brittany, i wait you do the same with both in this proyect. Thank you :)
 
 Sorry my bad English
+
+Signed-off by: Jose Andres <joseandreshernandezross@gmail.com>
