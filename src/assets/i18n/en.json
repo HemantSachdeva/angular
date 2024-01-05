@@ -92,63 +92,61 @@
     "FeatureProjects.Title": "My projects",
     "FeatureProjects.Label": "Featured Project",
     "FeatureProjects.Projects": [{
-            "Title": "Agrourbana",
-            "Description": "Monitoring application made from scratch with auth module, <span class='underline'>configurable graphics</span>, <span class='underline'>configurable alarms</span>, and <span class='underline'>user management</span>. It also has feedback form logic for parameter configuration.",
-            "imgs": [
-                "assets/images/agrourbana/agrourbana1.png",
-                "assets/images/agrourbana/agrourbana2.png",
-                "assets/images/agrourbana/agrourbana3.png",
-                "assets/images/agrourbana/agrourbana4.png",
-                "assets/images/agrourbana/agrourbana5.png"
+            "Title": "Evolution X",
+            "Description": [
+                "Contributed to the development and maintenance of an Android custom ROM, which includes bringing <span class='underline'>Android 11, 12 and 13</span> to the Xiaomi Mi A3 <span class='underline'>when</span> Xiaomi failed to keep our device a daily driver.",
+                "Provided <span class='underline'>timely updates</span> and <span class='underline'>required patches</span> for security vulnerabilities and bugs, ensuring that <span class='underline'>2000+ users</span> over the globe always get a stable and secure experience."
             ],
-            "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
-        },
-        {
-            "Title": "Tu super plan",
-            "Description": "Health plan quote that has a search engine with which advanced queries are made. Plans are displayed based on the user's age, monthly income, and location. It has <span class='underline'>online chat</span, <span class='underline'>contact form</span>, <span class='underline'>notification system by whatsapp and mail</span>, <span class='underline'>auth</span>, and <span class='underline'>internet information management through the role of administrator.</span>",
+            "ghLink": "https://github.com/Evolution-X",
+            "demoLink": "https://xdaforums.com/t/official-rom-13-evolutionx-7-5-01-11-2023.4193431",
             "imgs": [
-                "assets/images/tusuperplan/tusuperplan1.png",
-                "assets/images/tusuperplan/tusuperplan2.png",
-                "assets/images/tusuperplan/tusuperplan3.png",
-                "assets/images/tusuperplan/tusuperplan4.png",
-                "assets/images/tusuperplan/tusuperplan5.png"
+                "assets/images/projects/evolution-x/1.png",
+                "assets/images/projects/evolution-x/2.png",
+                "assets/images/projects/evolution-x/3.png"
             ],
-            "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
+            "Technologies": ["Android", "Linux", "Git", "Github"]
         },
         {
-            "Title": "Proyexiot",
-            "Description": "Data monitoring platform belonging to water wells, tugboats, and various installations made from scratch with auth module, <span class='underline'>configurable graphics</span>, <span class='underline'>configurable alarms</span>, <span class='underline'>user management</span>, and <span class='underline'>geolocation with openlayers.</span>",
+            "Title": "G-Books",
+            "Description": [
+                "<span class='underline'>Led</span> a team of <span class='underline'>5 Android Enthusiasts</span> for developing an <span class='underline'>Open Source Android app</span> during 45+ days of facilitating <span class='underline'>Android Study Jams</span> on college campus under GDSC (local community).",
+                "Implemented the <span class='underline'>database models</span> for the app and used the <span class='underline'>Google Books API</span> to search, preview, and buy any number of e-books out of 1000K+ available over there."
+            ],
+            "ghLink": "https://github.com/gdsc-bbsbec/GBooks",
             "imgs": [
-                "assets/images/proyex/proyex1.png",
-                "assets/images/proyex/proyex2.png",
-                "assets/images/proyex/proyex3.png",
-                "assets/images/proyex/proyex4.png",
-                "assets/images/proyex/proyex5.png",
-                "assets/images/proyex/proyex6.png",
-                "assets/images/proyex/proyex7.png",
-                "assets/images/proyex/proyex8.png",
-                "assets/images/proyex/proyex9.png",
-                "assets/images/proyex/proyex10.png",
-                "assets/images/proyex/proyex11.png",
-                "assets/images/proyex/proyex12.png"
+                "assets/images/projects/g-books/1.png",
+                "assets/images/projects/g-books/2.png",
+                "assets/images/projects/g-books/3.png",
+                "assets/images/projects/g-books/4.png"
             ],
-            "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
+            "Technologies": ["Android", "Kotlin", "Room Database", "Retrofit", "Github Actions"]
         },
         {
-            "Title": "Hands game",
-            "Description": "The rock-paper-scissors game extended. A personal project developed in angular in which you play randomly against the machine. It has the use of services, interfaces, and components.",
-            "imgs": ["assets/images/hands-game.png"],
-            "ghLink": "https://github.com/andresjosehr/hands-game",
-            "demoLink": "https://projects.andresjosehr.com/hands-game",
-            "Technologies": ["Angular", "CSS GRID", "SASS", "Angular animations"]
+            "Title": "Person Counter",
+            "Description": [
+                "Scripted a <span class='underline'>CLI</span> which takes either a <span class='underline'>video</span> or <span class='underline'>image file path</span> as an argument, <span class='underline'>count</span> and <span class='underline'>display</span> the total <span class='underline'>number of person,</span> in the static image and at every instant while a footage is playing."
+            ],
+            "ghLink": "https://github.com/HemantSachdeva/person_counter",
+            "imgs": [
+                "assets/images/projects/person-counter/1.png",
+                "assets/images/projects/person-counter/2.png"
+            ],
+            "Technologies": ["Python", "OpenCV"]
         },
         {
-            "Title": "Countries viewer",
-            "Description": "An interface that consumes an API of countries with which you can view a list of countries, see details of each country, filter by name and region. It also has a dark mode to switch between dark and light themes.",
-            "imgs": ["assets/images/countries-viewer.png"],
-            "ghLink": "https://github.com/andresjosehr/countries-viewer",
-            "demoLink": "https://projects.andresjosehr.com/countries-viewer",
-            "Technologies": ["Angular", "RxJS", "SASS", "API"]
+            "Title": "Temp Mail",
+            "Description": [
+                "Developed a <span class='underline'>CLI</span> which generates a temporary email address and displays it to the user.",
+                "The user can then use this email address to <span class='underline'>receive emails</span> from other users and use the <span class='underline'>CLI</span> to <span class='underline'>view the emails</span> and <span class='underline'>sender details.</span>"
+            ],
+            "ghLink": "https://github.com/HemantSachdeva/TempMail",
+            "imgs": [
+                "assets/images/projects/temp-mail/1.png",
+                "assets/images/projects/temp-mail/2.png",
+                "assets/images/projects/temp-mail/3.png",
+                "assets/images/projects/temp-mail/4.png"
+            ],
+            "Technologies": ["Bash", "cURL", "JQ", "W3M"]
         }
     ],
 
