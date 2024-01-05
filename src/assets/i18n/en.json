@@ -21,64 +21,71 @@
 
     "Experience.Title": "Experience",
     "Experience.Jobs": [{
-            "Tab": "Project",
-            "Title": "Fullstack developer",
-            "Date": "December 2019 - Present",
+            "Tab": "H & R Block",
+            "Organization": "H & R BLOCK (INDIA) PRIVATE LIMITED",
+            "Title": "Associate Software Engineer",
+            "Date": "February 2023 - Present",
+            "Location": "Trivandrum, Kerala, India",
+            "LocationType": "On-site",
             "Description": [
-              "Creation and maintenance of a monitoring platform with graphics in WordPress.",
-              "Functional programming in templates and plugins to add the necessary monitoring features.",
-              "Implementation of continuous integration and daily backups.",
-              "Creation and maintenance of a second Monitoring Platform Done in Angular, Angular Material, Laravel, Mysql, RxJS, Sass with graphics (configurable), alarm system, and user management and configuration of general parameters.",
-              "Planning meetings in reports."
+              "Currently maintaining the UI of the Pricing Tool, a crucial system used by all company franchisees for setting pricing fees during the US tax season.",
+              "Actively managing data binding operations between the user interface and the SQL database, including adding and removing elements as needed.",
+              "Providing valuable suggestions and actively implementing improvements to enhance the functionality and user experience.",
+              "Leveraging <span class='underline'>.NET, ASP.NET, JavaScript,</span> <span class='underline'>Microsoft Azure cloud services.</span>"
             ]
         },
         {
-            "Tab": "Freelancer",
-            "Title": "Independent",
-            "Date": "May 2016 - Present",
+            "Tab": "MongoDB",
+            "Organization": "MongoDB Inc.",
+            "Title": "Creator - MongoDB Community Advocacy Program",
+            "Date": "February 2023 - Present",
+            "Location": "New York, USA",
+            "LocationType": "Remote",
             "Description": [
-              "Implementing continuous improvements, working on frontend and backend.",
-              "Creating platforms with Angular, Laravel, ExpressJS, WordPress programmed with functional, reactive, and object-oriented programming paradigms.",
-              "Automation of processes with data structures.",
-              "Design layout with SASS, Bootstrap, Materialize, Bulma, etc."
+              "The program enables enthusiastic program members to grow their knowledge, profile and leadership through engagement and advocacy of all users of MongoDB technologies.",
+              "Creators keeps the community updated with the latest trends in MongoDB and helps them to get started with MongoDB by providing them with the necessary resources.",
+              "Utilizing <span class='underline'>Blogging, Public Speaking,</span> <span class='underline'>Community Engagement, MongoDB</span> skills."
             ]
         },
         {
-            "Tab": "Moebius",
-            "Title": "FullStack developer",
-            "Date": "July 2017 - October 2018",
+            "Tab": "Timemarks Examiner",
+            "Organization": "Timemarks Examiner Pvt. Ltd.",
+            "Title": "Python Developer Intern",
+            "Date": "March 2022 - February 2023",
+            "Location": "Jaipur, Rajasthan, India",
+            "LocationType": "Remote",
             "Description": [
-              "Leading a team of 4 people in the development of a Tourism Data management platform made in Angular, Laravel, and MySQL.",
-              "Implementation CI / CD in Azure. Refactoring and optimizing application load times.",
-              "Coding of API requests with RxJS.",
-              "Creation of modules with complex reactive forms",
-              "Writing weekly reports about goals and plans."
+              "Authored over <span class='underline'>50 RESTful APIs</span> performing CRUD operations on MongoDB cluster.",
+              "Implemented core features for Channel Chat and automated Bot that eases channel management for an admin.",
+              "Gained expertise in <span class='underline'>Python-Flask, MongoDB,</span> <span class='underline'>Linux Server, Postman.</span>"
             ]
         },
         {
-            "Tab": "TechLatam",
-            "Title": "Frontend developer",
-            "Date": "February 2016 - May 2017",
+            "Tab": "Haruka LLC",
+            "Organization": "Haruka LLC",
+            "Title": "Android OS Maintainer",
+            "Date": "February 2020 - January 2023",
+            "Location": "Tokyo, Japan",
+            "LocationType": "Remote",
             "Description": [
-              "Creation of WordPress templates with ACF, functional programming in Javascript / jQuery, styles in SASS",
-              "integration of design improvements, and template loading times.",
-              "Effective communication with the design team, working with Avocode / Figma."
+              "Maintaining an Android Operating System (Evolution X) updates and bug fixes for Xiaomi Mi A3 mobile phone.",
+              "Helping with micro open-source project management and mentoring new contributors in times required.",
+              "Constant contribution towards the community of the project.",
+              "Developed proficiency in <span class='underline'>Android Open Source Project,</span> <span class='underline'>Linux Server Management,</span> <span class='underline'>Bash Scripting,</span> <span class='underline'>Git & Github.</span>"
             ]
         },
         {
-            "Tab": "CANTV",
-            "Title": "System analyst",
-            "Date": "November 2015 - December 2016",
+            "Tab": "Unread Innovations",
+            "Organization": "Unread Innovations",
+            "Title": "Backend Developer Intern",
+            "Date": "June 2022 - July 2022",
+            "Location": "Calicut, Kerala, India",
+            "LocationType": "Remote",
             "Description": [
-              "Programming of new functionalities for an existing employee management platform made in Angular and ExpressJS.",
-              "Perform refactoring of old code. Ensuring compatibility of every dependency in every update, along with regular Angular update as well."
+              "Designed One RESTful API for highly optimized and resumable file uploads to the organization’s S3 bucket and store metadata to database. This enhanced the file upload speed by 50%.",
+              "Written a Selenium script for adding some free useful simulations scrapped from an open-source websites that reduce the efforts of educators by 30%. These simulations’ metadata is also stored in database using the same script.",
+              "Utilized <span class='underline'>Python-Flask, Selenium, Web Scrapping,</span> <span class='underline'>MySQL, AWS S3, Postman</span> skills."
             ]
-        },
-        {
-            "Tab": "IEP",
-            "Title": "English teacher",
-            "Date": "January 2015 - July 2015",
-            "Description": ["Teaching English at a basic level to an enrollment of more than 200 students."]
         }
     ],
 
