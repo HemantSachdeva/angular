@@ -35,7 +35,7 @@ export class HeaderComponent implements OnInit {
   responsiveMenuVisible: Boolean = false;
   pageYPosition: number;
   languageFormControl: FormControl= new FormControl();
-  cvName: string = "";
+  cvLink: string = "";
 
   constructor(
     private router: Router,
@@ -55,15 +55,11 @@ export class HeaderComponent implements OnInit {
     this.responsiveMenuVisible=false;
   }
 
-  downloadCV(){
-    this.languageService.translateService.get("Header.cvName").subscribe(val => {
-      this.cvName = val
-      console.log(val)
-      // app url
-      let url = window.location.href;
-
+  openCV(){
+    this.languageService.translateService.get("Header.cvLink").subscribe(val => {
+      this.cvLink = val
       // Open a new window with the CV
-      window.open(url + "/../assets/cv/" + this.cvName, "_blank");
+      window.open(this.cvLink, "_blank");
     })
 
   }

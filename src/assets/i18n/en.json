@@ -5,7 +5,7 @@
     "Header.Item3" : "Projects",
     "Header.Item4" : "Contact",
     "Header.cvBtn" : "Resume",
-    "Header.cvName": "CV_Jose_Hernandez_Ingles.pdf",
+    "Header.cvLink": "https://drive.google.com/file/d/12rzoomvCkyhhJ4KsQStO5hBnFPvYkHa3/view",
 
     "Banner.Pretitle": "Hello! I'm",
     "Banner.Description": "With a dynamic <span class='underline'>4-year journey</span> in tech, I'm a passionate coder &amp; solution architect with a trailblazing journey from delivering global production products during college to navigating the corporate realm as an <span class='underline'>Associate Software Engineer</span>. Proficient in <span class='underline'>Python, MongoDB, Git, &amp; Linux</span>. For <span class='underline'>3 years</span> I've left an indelible mark maintaining the <span class='underline'>Evolution X Android OS </span> for <span class='underline'>Xiaomi Mi A3</span>. Currently, I'm steering my learning voyage into the realms of <span class='underline'>.NET &amp; Microsoft Azure Data Factory.</span> Join me on this tech odyssey, where innovation meets dedication, &amp; let's craft the future together!",
