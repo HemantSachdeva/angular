@@ -154,46 +154,48 @@
 
     "OtherProjects.Title": "More projects",
     "OtherProjects.Projects": [{
-            "Title": "Pokemon",
-            "Description": "Pokemon search engine that uses the pokeapi. Object-oriented programming was used to organize the information of the pokemons along with their respective image.",
-            "ghLink": "https://github.com/andresjosehr/pokemon-angular",
-            "demoLink": "https://projects.andresjosehr.com/pokemon-list",
-            "Technologies": ["Angular", "RxJs", "API", "Bootstrap"]
+            "Title": "Expense Tracker",
+            "Description": [
+                ".NET project prepared to visualise your daily expenses and visualise graphical based on categories (groceries, fashion, parties, etc .) you spend on."
+            ],
+            "ghLink": "https://github.com/HemantSachdeva/ExpenseTracker",
+            "Technologies": [".NET", "C#"]
         },
         {
-            "Title": "Coming soon page",
-            "Description": "Personal project of a two-column split page to be used as a 'Coming soon page'. Scheduled to be a fully responsive design. It has a form field to subscribe by email.",
-            "ghLink": "https://github.com/andresjosehr/coming-soon-page",
-            "demoLink": "https://projects.andresjosehr.com/coming-soon-page",
-            "Technologies": ["Angular", "SASS", "CSS GRID", "Reactive form"]
+            "Title": "To-Do App",
+            "Description": [
+                "A simple to do list app built with Django and PostgreSQL made to get familiar with User Authentication in Django Framework."
+            ],
+            "ghLink": "https://github.com/HemantSachdeva/ToDoApp",
+            "Technologies": ["Python", "Django", "PostgreSQL"]
         },
         {
-            "Title": "Four card feature section",
-            "Description": "A single page that has a minimal design, listing four features on four cards. Input animations are done with angular animations.",
-            "ghLink": "https://github.com/andresjosehr/fourd-card-feature-section",
-            "demoLink": "https://projects.andresjosehr.com/four-card-feature-section",
-            "Technologies": ["Angular", "SASS", "CSS GRID"]
+            "Title": "IT Spotlight",
+            "Description": [
+                "A minor project based on hackernews api aiming to provide tech news in an interactive and a better way than the hackernews official website itself."
+            ],
+            "ghLink": "https://github.com/HemantSachdeva/ITSpotlight",
+            "Technologies": ["Python", "Flask", "RESTful API"]
         },
         {
-            "Title": "Social proof section",
-            "Description": "Personal project of a page designed from a Figma layout. Angular was used for development together with SASS and CSS GRID.",
-            "ghLink": "https://github.com/andresjosehr/social-proof-section",
-            "demoLink": "https://projects.andresjosehr.com/social-proof-section",
-            "Technologies": ["Angular", "CSS GRID", "GIT"]
+            "Title": "Google Cloud Profile Badges Scraper",
+            "Description": [
+                "Track digitally earned badges after completing Google Cloud challenges in Qwiklabs platform.",
+                "It also consists Github Actions workflow to automate the tracking process."
+            ],
+            "ghLink": "https://github.com/HemantSachdeva/google_cloud_profile_scraper",
+            "demoLink": "https://github.com/HemantSachdeva/google_cloud_profile_scraper/blob/dumps/data/output.csv",
+            "Technologies": ["Python", "BeautifulSoup", "Github Actions"]
         },
         {
-            "Title": "FAQ accordion card",
-            "Description": "FAQ accordion with logic and animations made in Angular.",
-            "ghLink": "https://github.com/andresjosehr/faq-accordion",
-            "demoLink": "https://proyectos.andresjosehr.com/faq-accordion",
-            "Technologies": ["Angular", "CSS GRID", "Angular animations"]
-        },
-        {
-            "Title": "Profile card",
-            "Description": "Simple one-page design that features a profile letter with basic information about a person.",
-            "ghLink": "https://github.com/andresjosehr/profile-card-component",
-            "demoLink": "https://proyectos.andresjosehr.com/profile-card-component",
-            "Technologies": ["Angular", "SASS", "GIT"]
+            "Title": "Google Developer Profile Badges Scraper",
+            "Description": [
+                "Track digitally earned badges after completing Google Developer's challenges.",
+                "It also consists Github Actions workflow to automate the tracking process."
+            ],
+            "ghLink": "https://github.com/HemantSachdeva/google_developers_profile_scraper",
+            "demoLink": "https://github.com/HemantSachdeva/google_developers_profile_scraper/blob/dumps/data/scrapped_data.csv",
+            "Technologies": ["Python", "BeautifulSoup", "Github Actions"]
         }
     ],
     "Contact.Pretitle": "What’s Next",
